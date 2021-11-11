@@ -1,0 +1,9 @@
+{
+    "destination": {
+        "a": true,
+        "servers": {
+            // roblox servers must not be down.
+            "ping": "https://*.roblox.com"
+        }
+    }
+}
