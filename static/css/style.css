@@ -1,0 +1,31 @@
+container {
+
+    background-color: rgb(204, 203, 203);
+
+    margin-left: -25px;
+    margin-top: -20.97560px;
+    margin-right: -20px;
+
+    max-width: auto;
+    max-height: auto;
+}
+html,body {
+    background-color: rgb(80, 80, 80);
+}
+
+logo {
+    content: url(../logos/content.sketchpad.svg);
+}
+p {
+    font-family: verdana;
+    color: white;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(150, 150, 150);
+    color: white;
+    text-align: center;
+}

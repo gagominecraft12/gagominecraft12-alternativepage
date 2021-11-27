@@ -1,0 +1,16 @@
+html,body {
+    background-color: white;
+}
+.emulator {
+    background-color: grey;
+    width: 1280px;
+    height: 720px;
+}
+
+/** --Videomaker-- **/
+videomaker {
+    background-color: rgb(59, 59, 59);
+}
+videomaker::before {
+    background-color: rgb(102, 102, 102);
+}
